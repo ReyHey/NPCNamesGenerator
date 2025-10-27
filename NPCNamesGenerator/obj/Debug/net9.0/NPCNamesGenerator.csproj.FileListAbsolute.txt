@@ -1,0 +1,15 @@
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\bin\Debug\net9.0\NPCNamesGenerator.exe
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\bin\Debug\net9.0\NPCNamesGenerator.deps.json
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\bin\Debug\net9.0\NPCNamesGenerator.runtimeconfig.json
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\bin\Debug\net9.0\NPCNamesGenerator.dll
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\bin\Debug\net9.0\NPCNamesGenerator.pdb
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.AssemblyInfoInputs.cache
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.AssemblyInfo.cs
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.sourcelink.json
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.dll
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\refint\NPCNamesGenerator.dll
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.pdb
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\NPCNamesGenerator.genruntimeconfig.cache
+C:\Users\Rey\Documents\GitHub\NPCNamesGenerator\NPCNamesGenerator\obj\Debug\net9.0\ref\NPCNamesGenerator.dll
